@@ -29,7 +29,7 @@ The relational database model enforces several types of data integrity to ensure
 11. **Describe the manipulative aspects of the relational database model. Your description should include information about the ways in which data is manipulated (added, removed, changed, and retrieved) in a relational database.**  
 The relational database model provides various operations to manipulate data. The four primary manipulative aspects are adding (inserting), removing (deleting), changing (updating), and retrieving data. Adding data involves inserting new records into tables, specifying values for the appropriate columns. Removing data entails, deleting records from tables based on specific conditions. Changing data is achieved through updating existing records, modifying values in specific columns. Retrieving data involves querying the database using structured query language (SQL) to extract specific records or subsets of data based on conditions or criteria. SQL provides a rich set of commands, such as INSERT, DELETE, UPDATE, and SELECT, enabling developers to manipulate data effectively and perform complex operations like filtering, sorting, and aggregating data.  
 12. **Conduct research into a web application (app) and answer the following parts:**  
-- **List and describe software used by the app**  
+A. **List and describe software used by the app**  
 The web application I chose to work with is Gumtree. Here's a list of the softwares used by the app:  
 - HTML - this is a markup language for the structure & content of the website  
 - CSS - styling language for website  
@@ -39,4 +39,4 @@ The web application I chose to work with is Gumtree. Here's a list of the softwa
 - Google cloud hosting - cloud hosting service 
 - Java - programming language  
 
-- **Describe the hardware used to host the app**
+B. **Describe the hardware used to host the app**
