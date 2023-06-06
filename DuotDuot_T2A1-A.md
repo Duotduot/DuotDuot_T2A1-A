@@ -75,4 +75,5 @@ F. **Identify the relationships and associations between the entities you have i
 - Watchlists - one user
 - Watchlists - zero or many listings  
 
-G. **Design a schema using an Entity Relationship Diagram (ERD) appropriate for the database of this website (assuming a relational database model)**
+G. **Design a schema using an Entity Relationship Diagram (ERD) appropriate for the database of this website (assuming a relational database model)**  
+![ERD diagram](./Docs/erd.png) 
