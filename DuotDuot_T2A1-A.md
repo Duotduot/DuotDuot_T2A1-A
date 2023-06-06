@@ -39,4 +39,7 @@ The web application I chose to work with is Gumtree. Here's a list of the softwa
 - Google cloud hosting - cloud hosting service 
 - Java - programming language  
 
-B. **Describe the hardware used to host the app**
+B. **Describe the hardware used to host the app**  
+The web server Nginx is one of the hardwares used to host Gumtree. It enables handling and addressing of HTTP requests for content from clients. Gumtree also uses distributed serve networks for cloud hosting(Google Cloud hosting) and content delivery networks(Amazon Cloudfront). Geographic distance separates the servers for Google cloud hosting and Amazon Cloudfront. Because of this, locations near these serves can use these services with decreased latency and travel times.  
+
+C. **Describe the interaction of technnologies within the app**  
