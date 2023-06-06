@@ -58,3 +58,21 @@ E. **Identify entities which must be tracked by the app**
 - Messages (user_id, user_id2, message)  
 
 F. **Identify the relationships and associations between the entities you have indentified in part (e)**  
+- Users - zero or many listings
+- Users - zero or many ratings
+- Users - zero or many messages
+- Users - zero or many listings in watchlist
+- Users - one contact details
+- Listings - one product category
+- Listings - one user
+- Listings - one contact details
+- Listings - zero or many watchlists
+- Messages - one user
+- Ratings - one user
+- Product Categories - zero or many listings
+- Contact details - one user
+- Contact details - zero or many listings
+- Watchlists - one user
+- Watchlists - zero or many listings  
+
+G. **Design a schema using an Entity Relationship Diagram (ERD) appropriate for the database of this website (assuming a relational database model)**
