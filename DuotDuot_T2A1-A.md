@@ -38,4 +38,5 @@ The web application I chose to work with is Gumtree. Here's a list of the softwa
 - Nginx - web server  
 - Google cloud hosting - cloud hosting service 
 - Java - programming language  
+
 - **Describe the hardware used to host the app**
