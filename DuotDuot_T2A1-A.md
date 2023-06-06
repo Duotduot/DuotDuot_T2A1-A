@@ -28,3 +28,14 @@ The relational database model organizes data into tables, with each table repres
 The relational database model enforces several types of data integrity to ensure the accuracy and consistency of data. These include entity integrity, referential integrity, and domain integrity. Entity integrity ensures that each row within a table has a unique primary key value, preventing duplicate or null values. Referential integrity guarantees that relationships between tables are maintained correctly, with foreign keys referencing valid primary key values. This prevents orphaned or invalid references. Domain integrity enforces constraints on the values that can be stored in specific columns, such as data types, ranges, and formats. These integrity aspects can be enforced through the use of primary key and foreign key constraints, uniqueness constraints, check constraints, and triggers.  
 11. **Describe the manipulative aspects of the relational database model. Your description should include information about the ways in which data is manipulated (added, removed, changed, and retrieved) in a relational database.**  
 The relational database model provides various operations to manipulate data. The four primary manipulative aspects are adding (inserting), removing (deleting), changing (updating), and retrieving data. Adding data involves inserting new records into tables, specifying values for the appropriate columns. Removing data entails, deleting records from tables based on specific conditions. Changing data is achieved through updating existing records, modifying values in specific columns. Retrieving data involves querying the database using structured query language (SQL) to extract specific records or subsets of data based on conditions or criteria. SQL provides a rich set of commands, such as INSERT, DELETE, UPDATE, and SELECT, enabling developers to manipulate data effectively and perform complex operations like filtering, sorting, and aggregating data.  
+12. **Conduct research into a web application (app) and answer the following parts:**  
+- **List and describe software used by the app**  
+The web application I chose to work with is Gumtree. Here's a list of the softwares used by the app:  
+- HTML - this is a markup language for the structure & content of the website  
+- CSS - styling language for website  
+- Javascript - scripting language for the website  
+- React - libary for user interface  
+- Nginx - web server  
+- Google cloud hosting - cloud hosting service 
+- Java - programming language  
+- **Describe the hardware used to host the app**
