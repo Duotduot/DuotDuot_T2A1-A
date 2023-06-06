@@ -45,4 +45,7 @@ The web server Nginx is one of the hardwares used to host Gumtree. It enables ha
 C. **Describe the interaction of technnologies within the app**  
 When a user requests content from the app, it is sent as a HTTP request to the web server; Nginx. Nginx  then sends back a response which could use a combination of HTML, CSS, Javascript or any other technologies which form the basis for a responsive website. The server might also transfer it to Amazon Cloudfront, which would then try to send it back to the user through the fastest route possible.  
 
-D. **Describe the way data is structured within the app**
+D. **Describe the way data is structured within the app**  
+A relational database model is used in the web app, Gumtree. To get into the structure of the data, the tables needed for this web app are User's table, Password and Username. A table for listings is needed too since a user can have one to multiple listings. Listing is one of the main purpose of the web app.  
+
+E. **Identify entities which must be tracked by the app**
