@@ -43,3 +43,6 @@ B. **Describe the hardware used to host the app**
 The web server Nginx is one of the hardwares used to host Gumtree. It enables handling and addressing of HTTP requests for content from clients. Gumtree also uses distributed serve networks for cloud hosting(Google Cloud hosting) and content delivery networks(Amazon Cloudfront). Geographic distance separates the servers for Google cloud hosting and Amazon Cloudfront. Because of this, locations near these serves can use these services with decreased latency and travel times.  
 
 C. **Describe the interaction of technnologies within the app**  
+When a user requests content from the app, it is sent as a HTTP request to the web server; Nginx. Nginx  then sends back a response which could use a combination of HTML, CSS, Javascript or any other technologies which form the basis for a responsive website. The server might also transfer it to Amazon Cloudfront, which would then try to send it back to the user through the fastest route possible.  
+
+D. **Describe the way data is structured within the app**
