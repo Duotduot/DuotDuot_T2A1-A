@@ -48,4 +48,13 @@ When a user requests content from the app, it is sent as a HTTP request to the w
 D. **Describe the way data is structured within the app**  
 A relational database model is used in the web app, Gumtree. To get into the structure of the data, the tables needed for this web app are User's table, Password and Username. A table for listings is needed too since a user can have one to multiple listings. Listing is one of the main purpose of the web app.  
 
-E. **Identify entities which must be tracked by the app**
+E. **Identify entities which must be tracked by the app**  
+- Users (email, password, name, ratings)
+- Contact details (user_id, email, location, phone number, listing_id)
+- Listings (price, description, posting date, condition, contact details, product category)
+- Ratings (user_id, rating)
+- Product categories (category, description)
+- Watchlist (listing_id, user_id)
+- Messages (user_id, user_id2, message)  
+
+F. **Identify the relationships and associations between the entities you have indentified in part (e)**  
