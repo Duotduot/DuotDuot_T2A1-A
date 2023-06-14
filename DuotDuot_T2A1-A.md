@@ -77,3 +77,14 @@ F. **Identify the relationships and associations between the entities you have i
 
 G. **Design a schema using an Entity Relationship Diagram (ERD) appropriate for the database of this website (assuming a relational database model)**  
 ![ERD diagram](./Docs/erd.png) 
+
+**References:**  
+1. https://opensource.com/article/18/4/flask
+2. https://dev.to/detimo/python-flask-pros-and-cons-1mlo
+3. https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/
+4. https://www.atlassian.com/agile/project-management
+5. https://www.postgresqltutorial.com/postgresql-getting-started/what-is-postgresql/
+6. https://www.atlassian.com/git/tutorials/why-git
+7. https://stackshare.io/gumtree-com/gumtree-com
+8. https://www.gumtree.com.au/
+9. https://builtwith.com/gumtree.com
